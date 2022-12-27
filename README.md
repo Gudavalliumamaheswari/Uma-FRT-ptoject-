@@ -11,7 +11,7 @@ Project demo Links:
 
 Github Reposistory: https://github.com/Gudavalliumamaheswari/Uma-FRT-ptoject-
 
-Github project Link: 
+Github project Link: https://gudavalliumamaheswari.github.io/Uma-FRT-ptoject-/
 
 Azure project Link:https://white-mushroom-0a6549e00.2.azurestaticapps.net
 
