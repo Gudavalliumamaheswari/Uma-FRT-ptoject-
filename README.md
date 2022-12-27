@@ -24,6 +24,7 @@ Webtechnologies used:
 
 Html5,
 css3.
+Java script
 
 
 
