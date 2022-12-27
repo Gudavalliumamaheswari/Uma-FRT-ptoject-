@@ -9,11 +9,11 @@ A festival is an event ordinarily celebrated by a community and centering on som
 
 Project demo Links: 
 
-Github Reposistory: 
+Github Reposistory: https://github.com/Gudavalliumamaheswari/Uma-FRT-ptoject-
 
 Github project Link: 
 
-Azure project Link:https: 
+Azure project Link:https://white-mushroom-0a6549e00.2.azurestaticapps.net
 
 Azure Skills used:
 
